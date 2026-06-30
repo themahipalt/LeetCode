@@ -6,6 +6,7 @@ public class Solution
         int right = 0;
         int count = 0;
 
+
         int[] freq = new int[3];
 
         while (right < s.Length)
